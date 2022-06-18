@@ -1,0 +1,20 @@
+System Requirement 
+¡ñ Linux based on OS 
+¡ñ Minimum of 2GB RAM 
+¡ñ Monitor, Keyboard, and Mouse 
+¡ñ Equipped GCC and GNU make 
+
+Setup and Configuration 
+1. First, open a terminal window or Putty window. 
+2. Logging into a Linux account given by the developers. 
+3. Use the "cd" command to go to the folder where the game at. 4. Unpack the source code from the archive by ¡° tar -xvzf chess.tar.gz¡± (For now, our file name is chess) 
+5. Compile the source code of the program by ¡° make clean¡± and then ¡°make¡±. 
+6. Run the compiled program by the command ¡± ./bin/poker zuma 10100¡±. server will type the command "./bin/server 10100 if he/she is linked to zuma.
+
+Uninstalling 
+1. First, open a terminal window or Putty window. 
+2. Logging into a Linux account given by the developers. 
+3. Use the "cd" command to go to the folder where the game at.
+4. Use the command¡± rm all¡± to delete the installation of the chess game. 
+
+

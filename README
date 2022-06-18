@@ -1,0 +1,12 @@
+README: Texas Hold'em
+For now, our program doesn't support a client and server service. We are still working on to fit the poker game in to client and server mode.
+It can functioned as a normal poker game.
+Card.c: This module is used to initialize cards, decks, and has the function of dealing cards (dealing cards to everyone's hands), and shuffling the cards.
+
+IO.c: This module is responsible for input and output, such as user input, print out what cards each user has in hand, 
+print out what cards are on the board, and ask users to make choices (bet, call, raise, fold).
+
+Main.c: This module is responsible for the entire game.
+
+Rule.s:This module is responsible for defining the specific rules of Texas holdem poker, 
+such as what kind of cards can form a flush. And how to count as a victory
